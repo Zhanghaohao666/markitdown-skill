@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarkItDown Skill"
+  short_description: "Convert files and URLs to Markdown."
+  default_prompt: "Use $markitdown-skill to convert this file or URL to Markdown while preserving useful document structure."
